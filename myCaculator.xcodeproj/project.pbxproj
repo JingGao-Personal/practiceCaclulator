@@ -54,14 +54,22 @@
 		DCF7898C1F3C2DE400B191AF /* myCaculator */ = {
 			isa = PBXGroup;
 			children = (
-				DCF7898D1F3C2DE400B191AF /* AppDelegate.swift */,
 				DCF7898F1F3C2DE400B191AF /* ViewController.swift */,
 				DCF789911F3C2DE400B191AF /* Main.storyboard */,
+				DCF7899F1F3C2E1B00B191AF /* Supporting Files */,
+			);
+			path = myCaculator;
+			sourceTree = "<group>";
+		};
+		DCF7899F1F3C2E1B00B191AF /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				DCF7898D1F3C2DE400B191AF /* AppDelegate.swift */,
 				DCF789941F3C2DE400B191AF /* Assets.xcassets */,
 				DCF789961F3C2DE400B191AF /* LaunchScreen.storyboard */,
 				DCF789991F3C2DE400B191AF /* Info.plist */,
 			);
-			path = myCaculator;
+			name = "Supporting Files";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
