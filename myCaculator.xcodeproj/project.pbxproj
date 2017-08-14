@@ -312,6 +312,7 @@
 				DCF7899E1F3C2DE400B191AF /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
