@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		DC298AC01F42B23500145858 /* CalculatorBrain.swift in Sources */ = {isa = PBXBuildFile; fileRef = DC298ABF1F42B23500145858 /* CalculatorBrain.swift */; };
 		DCF7898E1F3C2DE400B191AF /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = DCF7898D1F3C2DE400B191AF /* AppDelegate.swift */; };
 		DCF789901F3C2DE400B191AF /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = DCF7898F1F3C2DE400B191AF /* ViewController.swift */; };
 		DCF789931F3C2DE400B191AF /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DCF789911F3C2DE400B191AF /* Main.storyboard */; };
@@ -15,6 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		DC298ABF1F42B23500145858 /* CalculatorBrain.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CalculatorBrain.swift; sourceTree = "<group>"; };
 		DCF7898A1F3C2DE400B191AF /* myCaculator.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = myCaculator.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		DCF7898D1F3C2DE400B191AF /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		DCF7898F1F3C2DE400B191AF /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -57,6 +59,7 @@
 				DCF7898F1F3C2DE400B191AF /* ViewController.swift */,
 				DCF789911F3C2DE400B191AF /* Main.storyboard */,
 				DCF7899F1F3C2E1B00B191AF /* Supporting Files */,
+				DC298ABF1F42B23500145858 /* CalculatorBrain.swift */,
 			);
 			path = myCaculator;
 			sourceTree = "<group>";
@@ -145,6 +148,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				DC298AC01F42B23500145858 /* CalculatorBrain.swift in Sources */,
 				DCF789901F3C2DE400B191AF /* ViewController.swift in Sources */,
 				DCF7898E1F3C2DE400B191AF /* AppDelegate.swift in Sources */,
 			);
